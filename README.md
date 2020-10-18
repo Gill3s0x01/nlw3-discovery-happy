@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src=".gitimage/logo.svg" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src=".gitimage/happy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -47,10 +47,6 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1) 
 
 Você precisa possuir uma conta no [Figma](http://figma.com/) para acessá-lo.
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
